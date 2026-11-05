@@ -1,0 +1,51 @@
+================================================================================
+FLYRANK INTERNSHIP SUBMISSION: LAUNCH A NEWSLETTER
+Track: AI Marketing · Week 6 · Build Phase
+Author: KM Siam (k.m.siam2019@gmail.com)
+================================================================================
+
+DELIVERABLE LINKS:
+------------------
+1. Canonical Newsletter Signup Page (Live Substack Hub):
+   https://autonomoussearch.substack.com
+
+2. Complete Newsletter Launch Dossier (Markdown):
+   https://github.com/KMSiam/Flyrank-Internship-AI-Marketing/blob/main/NEWSLETTER_LAUNCH_DOSSIER.md
+
+3. Publication PDF Launch Report:
+   https://github.com/KMSiam/Flyrank-Internship-AI-Marketing/blob/main/FlyRank_Newsletter_Launch_Report.pdf
+
+4. FlyRank AI Marketing Main Repository:
+   https://github.com/KMSiam/Flyrank-Internship-AI-Marketing
+
+5. FlyRank Internship Overview Hub:
+   https://github.com/KMSiam/Flyrank-Internship-AI
+
+================================================================================
+SUBMISSION NOTES / CONTEXT FOR REVIEWERS:
+================================================================================
+For the Week 6 "Launch a Newsletter" assignment (Phase: Build, Workload: 3h), I architected, built, and launched "The Autonomous Search Dispatch" (by FlyRank) on Substack at https://autonomoussearch.substack.com.
+
+Key Execution Highlights:
+1. Editorial Premise & Positioning:
+   - Target Audience: B2B SaaS Founders, Growth Marketers, Head of SEOs, and Performance Agency Directors.
+   - Core Value Proposition: A high-signal, zero-fluff weekly briefing deciphering how conversational AI (ChatGPT Search, Perplexity, Google AI Overviews) is re-routing organic discovery and pipeline.
+   - Cadence & Format: Every Tuesday at 8:00 AM EST using the "3-2-1" model (3 Hard Data Points, 2 Turnkey Playbooks, 1 Live Teardown) read in under 4 minutes.
+
+2. Signup Landing Hub:
+   - Live URL: https://autonomoussearch.substack.com
+   - Benefit-driven headline ("The Weekly Briefing on How AI Search Is Rewiring Organic Traffic") with social proof from 4,200+ leaders and Praella/BattlBox/Cymbiotika case studies.
+
+3. Automated Welcome Flow (Immediate Quick Win):
+   - Welcome subject: "Welcome to The Dispatch (plus your 2026 GEO quick win)"
+   - Includes a turnkey 3-Step AI Citation Schema Blueprint (SoftwareApplication, FAQPage 50-word blocks, SameAs entity disambiguation) and explicit whitelisting / inbox placement steps.
+
+4. Launch Issue Draft (#001):
+   - Subject: "Issue #001: The 18.9% age cliff (and who ChatGPT cited this week)"
+   - Highlights empirical findings from the 120,700 URL benchmark study, the 50-word direct answer rule for AI Overviews, and Praella's 5.2x search lead surge case study.
+
+5. Owned vs. Rented Reach Strategy:
+   - A strategic breakdown detailing how shifting from rented algorithmic channels (Google HCU, Meta CPMs) to a first-party owned newsletter engine secures compounding enterprise valuation and direct customer access.
+
+All assets, publication HTML, and PDF reports are committed to GitHub and archived in the repository.
+================================================================================

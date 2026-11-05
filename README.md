@@ -63,6 +63,16 @@ This repository contains the strategic research, channel acquisition blueprints,
   - [**submission_notes_thread_scout.txt**](./submission_notes_thread_scout.txt): Copy-paste portal submission notes link kit.
   - [**Thread Scout Google Form Target**](https://docs.google.com/forms/d/e/1FAIpQLScuPogZcRxJq3Vn5MODqDuw-Yfx_zWzvRKhWNta473EgZehdg/viewform): Verified destination where submissions land.
 
+### Week 6: Launch a Newsletter (Build · 3h)
+- **Publication Name:** **The Autonomous Search Dispatch** (by FlyRank)
+- **Live Signup URL:** [https://autonomoussearch.substack.com](https://autonomoussearch.substack.com)
+- **Core Concept:** Shifting from *rented algorithmic reach* (Google HCU, Meta CPMs) to *owned direct audience*.
+- **Cadence & Structure:** Weekly Tuesday briefings (under 4 mins) using the "3-2-1" model (3 Hard Data Points, 2 Turnkey Playbooks, 1 Live Teardown).
+- **Key Deliverables:**
+  - [**`NEWSLETTER_LAUNCH_DOSSIER.md`**](./NEWSLETTER_LAUNCH_DOSSIER.md): Complete publication blueprint with signup page copy, automated welcome sequence, and full Issue #001 draft.
+  - [**`FlyRank_Newsletter_Launch_Report.pdf`**](./FlyRank_Newsletter_Launch_Report.pdf): Publication PDF dossier deliverable.
+  - [**`submission_notes_newsletter.txt`**](./submission_notes_newsletter.txt): Copy-paste portal submission notes link kit.
+
 ### Week 5: Write FlyRank's No-Brainer Offer (Setup · 4h)
 - **The Offer:** *"The Autonomous AI Search & Content Decay Diagnostic"* (100% Free · $1,500 Value · 60-Sec Instant Results).
 - **Deliverables:** AI Citation Footprint, 185-Day Decay Radar, and 3 Turnkey Schema Fixes.
