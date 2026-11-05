@@ -22,6 +22,16 @@ This repository contains the strategic research, channel acquisition blueprints,
 
 ## 2. Completed Milestones & Assignments
 
+### Capstone Project: The Lead Magnet Build (Week 8 · Capstone)
+- **Title:** **How to Structure Content for AI Search: A Practical Guide**
+- **Format:** 8-Page Publication-Grade Downloadable Lead Magnet (PDF & Markdown Dossier)
+- **The Concept:** Teaches businesses how RAG chunking works, the 5 universal formatting rules, query fan-out mapping, and provides two turnkey actionable assets (10-Point Scorecard & Wireframe Template).
+- **The 3-Move Call to Action:** Features the bridge, the FlyRank autonomous solution offer, and the two-path action (visit `flyrank.ai` or email `growth@flyrank.com`).
+- **Key Deliverables:**
+  - [**`HOW_TO_STRUCTURE_CONTENT_FOR_AI_SEARCH.md`**](./HOW_TO_STRUCTURE_CONTENT_FOR_AI_SEARCH.md): Complete 8-page lead magnet text and wireframe blueprints.
+  - [**`FlyRank_Lead_Magnet_Content_Structure_AI_Search.pdf`**](./FlyRank_Lead_Magnet_Content_Structure_AI_Search.pdf): Polished 8-page publication PDF formatted for ad-to-lead campaigns.
+  - [**`submission_notes_lead_magnet.txt`**](./submission_notes_lead_magnet.txt): Copy-paste portal submission notes link kit.
+
 ### Week 2: Find an Untapped Channel
 - **Assignment Type:** Build Phase · Workload: 3h
 - **Objective:** Move beyond saturated acquisition loops (Meta Ads, generic Cold Email, LinkedIn outreach) to identify, validate, and prioritize high-intent niche channels where founders, growth marketers, e-commerce brands, and agency operators congregate.
