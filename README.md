@@ -63,6 +63,15 @@ This repository contains the strategic research, channel acquisition blueprints,
   - [**submission_notes_thread_scout.txt**](./submission_notes_thread_scout.txt): Copy-paste portal submission notes link kit.
   - [**Thread Scout Google Form Target**](https://docs.google.com/forms/d/e/1FAIpQLScuPogZcRxJq3Vn5MODqDuw-Yfx_zWzvRKhWNta473EgZehdg/viewform): Verified destination where submissions land.
 
+### Week 5: Write FlyRank's No-Brainer Offer (Setup · 4h)
+- **The Offer:** *"The Autonomous AI Search & Content Decay Diagnostic"* (100% Free · $1,500 Value · 60-Sec Instant Results).
+- **Deliverables:** AI Citation Footprint, 185-Day Decay Radar, and 3 Turnkey Schema Fixes.
+- **Copy Architecture:** Full section-by-section landing page copy (Hero, Value Stack, 3 Outcome Benefits, Proof Points, Objection FAQ, and Repeated Single CTA).
+- **Key Deliverables:**
+  - [**`NO_BRAINER_OFFER_LANDING_PAGE.md`**](./NO_BRAINER_OFFER_LANDING_PAGE.md): Complete conversion copy dossier with all sections and conversion architecture.
+  - [**`FlyRank_No_Brainer_Offer_Report.pdf`**](./FlyRank_No_Brainer_Offer_Report.pdf): Publication PDF deliverable with layout mockups.
+  - [**`submission_notes_no_brainer_offer.txt`**](./submission_notes_no_brainer_offer.txt): Copy-paste portal submission notes link kit.
+
 ### Week 5: Steal the Scroll: Client Ad Audit (Setup · 3h)
 - **Client Selected:** **Cymbiotika** (Health & Longevity DTC · [FlyRank Case Study: 4.96x growth](https://flyrank.ai/results))
 - **Competitors Analyzed:** AG1 (Athletic Greens), Thorne, MaryRuth Organics (via Meta Ad Library & Google Ads Transparency Center).

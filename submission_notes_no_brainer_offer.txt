@@ -1,0 +1,33 @@
+================================================================================
+AI MARKETING TRACK: WEEK 5 OFFER ASSIGNMENT SUBMISSION
+Write FlyRank's No-Brainer Offer · Setup Phase · Workload: 4h
+================================================================================
+
+1. DELIVERABLE LINKS:
+https://github.com/KMSiam/Flyrank-Internship-AI-Marketing
+https://github.com/KMSiam/Flyrank-Internship-AI-Marketing/blob/main/NO_BRAINER_OFFER_LANDING_PAGE.md
+https://github.com/KMSiam/Flyrank-Internship-AI-Marketing/blob/main/FlyRank_No_Brainer_Offer_Report.pdf
+https://flyrank.ai
+https://flyrank.ai/results
+https://github.com/KMSiam/Flyrank-Internship-AI
+
+2. NOTES / CONTEXT FOR REVIEWERS:
+Complete conversion copy dossier designing FlyRank's irresistible, zero-friction no-brainer offer and full section-by-section landing page copy:
+
+- The Offer Architecture:
+  "The Autonomous AI Search & Content Decay Diagnostic"
+  100% Free · $1,500 Agency Value · Instant 60-Second Results · Zero Sales Friction
+  Delivers: 1) AI Citation Footprint Score across ChatGPT & Perplexity, 2) 185-Day Content Decay Radar, and 3) Three Turnkey Schema & GEO Fixes.
+
+- Section-by-Section Landing Page Copy:
+  1. Hero: "Find Out Exactly What ChatGPT and Perplexity Say About Your Brand When Buyers Ask for Recommendations" with instant domain input box.
+  2. The Value Stack: Breaking down the 3 concrete deliverables traditional tools like Semrush miss.
+  3. Three Outcome Benefits: 1) Turn AI Overviews into traffic, 2) Save $4k/month on wasteful new blog posts, 3) Expose competitor positioning in LLMs.
+  4. Real Proof Points: Praella (5.2x leads, 3x pipeline), BattlBox (21.9x clicks), Cymbiotika (4.96x impressions), and 120,700 URL study data.
+  5. Objection-Handling FAQ: Tackling "What's the catch?", "Do you need CMS access?", and "How does this differ from legacy SEO?".
+  6. Final Re-Hook CTA: "In 60 Seconds, You’ll Know Exactly Where You Stand in AI Search" repeating the exact same single-action domain scan.
+
+- Single Conversion Goal: Zero competing navigation links, zero friction walls, 100% focused on driving free domain scans.
+
+Full copy text, layout specifications, and conversion psychology documented in NO_BRAINER_OFFER_LANDING_PAGE.md and publication PDF.
+================================================================================
