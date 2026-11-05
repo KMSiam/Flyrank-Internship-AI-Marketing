@@ -1,0 +1,53 @@
+================================================================================
+FLYRANK INTERNSHIP SUBMISSION: CRACK SOCIAL MEDIA ALGORITHM
+Track: AI Marketing · Week 7 · Build Phase
+Author: KM Siam (k.m.siam2019@gmail.com)
+Platform Selected: LinkedIn (B2B Organic Distribution)
+Brand Selected: FlyRank (https://flyrank.ai · Autonomous AI SEO & AEO Engine)
+================================================================================
+
+DELIVERABLE LINKS:
+------------------
+1. Complete LinkedIn Algorithm Playbook & Content Pack (Markdown Dossier):
+   https://github.com/KMSiam/Flyrank-Internship-AI-Marketing/blob/main/CRACK_SOCIAL_ALGORITHM_LINKEDIN.md
+
+2. Publication PDF Report Deliverable:
+   https://github.com/KMSiam/Flyrank-Internship-AI-Marketing/blob/main/FlyRank_Social_Algorithm_Playbook.pdf
+
+3. Canonical Live Profile / Distribution Hub:
+   https://www.linkedin.com/in/kmsiam
+
+4. FlyRank AI Marketing Main Repository:
+   https://github.com/KMSiam/Flyrank-Internship-AI-Marketing
+
+5. FlyRank Internship Overview Hub:
+   https://github.com/KMSiam/Flyrank-Internship-AI
+
+================================================================================
+SUBMISSION NOTES / CONTEXT FOR REVIEWERS:
+================================================================================
+For the Week 7 assignment "Crack Social Media Algorithm" (Phase: Build, Workload: 3h), I deconstructed LinkedIn's 2026 organic algorithm specifically for FlyRank (B2B SaaS, AEO/GEO engine) and built a complete native content pack engineered around the platform's core distribution mechanics.
+
+Key Strategic & Algorithmic Highlights:
+1. Algorithmic Mechanics & Scoring Signals:
+   - Dwell Time: Dwell-on-feed vs. dwell-on-expanded-content ("see more" clicks and multi-slide carousel reads) acts as LinkedIn's primary Stage 2/Stage 4 distribution trigger.
+   - Comment Depth: 15+ word substantive comments receive 4x–6x the algorithmic weight of a generic reaction; author replies during the "Golden Hour" (first 60 minutes) act as a secondary distribution multiplier.
+   - Document Swipes: PDF carousels register recursive engagement events per slide swipe.
+   - Saves & Thoughtful Reposts: Weighted heavily as signals of long-term professional utility.
+
+2. Penalties, Shadowbans & Compliance Guardrails:
+   - The External Link Penalty: External links in the main post body incur an immediate 40–50% reach penalty. Solved by delivering 100% native value and placing links in the pinned first comment.
+   - The 15-Minute Edit Penalty: Editing immediately post-publish resets micro-testing velocity.
+   - FTC AI & B2B Compliance: Claims on AI performance are tied strictly to verifiable client benchmarks (Praella 5.2x growth, 120,700 URL study) rather than unsubstantiated guarantees.
+
+3. Monetization Engine:
+   - Tailored to high-ACV enterprise SaaS acquisition ($2,500–$10,000/month retainers) driven by profile funneling and the Free 60-Second AI Citation Audit lead magnet.
+
+4. Sample Content Pack (Built to Win the Algorithm):
+   - Asset #1: High-Dwell PDF Document Carousel (8-slide blueprint on "The 18.9% Age Gap", designed for >75s dwell time and high bookmark rates).
+   - Asset #2: Contrarian Long-Form Text Post ("Stop paying freelance writers $400 for 3,000-word posts", triggering "see more" expansion, high vertical whitespace, and practitioner comment debates).
+   - Asset #3: Social Proof / Case Study Framework ("How Praella tripled inbound pipeline without writing new posts", driving profile visits and inbound enterprise demo requests).
+   - Each asset includes a granular "Why this fits the algorithm" justification.
+
+All markdown dossiers, publication HTML, and PDF reports are pushed to GitHub and archived in the repository.
+================================================================================

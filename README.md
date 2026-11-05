@@ -63,6 +63,16 @@ This repository contains the strategic research, channel acquisition blueprints,
   - [**submission_notes_thread_scout.txt**](./submission_notes_thread_scout.txt): Copy-paste portal submission notes link kit.
   - [**Thread Scout Google Form Target**](https://docs.google.com/forms/d/e/1FAIpQLScuPogZcRxJq3Vn5MODqDuw-Yfx_zWzvRKhWNta473EgZehdg/viewform): Verified destination where submissions land.
 
+### Week 7: Crack Social Media Algorithm (Build · 3h)
+- **Platform Selected:** **LinkedIn** (B2B Organic Distribution Engine)
+- **Brand Selected:** **FlyRank** (`https://flyrank.ai` · Autonomous AI SEO & AEO Engine)
+- **Algorithm Signals Decoded:** Dwell Time (dwell-on-feed vs. dwell-on-expanded-content), Comment Depth (15+ word replies), Multi-Slide Carousel Swipes, Golden Hour reply velocity.
+- **Platform Safeguards:** Elimination of external link penalties (pinned 1st comment architecture), 15-minute edit safeguards, and FTC AI compliance.
+- **Key Deliverables:**
+  - [**`CRACK_SOCIAL_ALGORITHM_LINKEDIN.md`**](./CRACK_SOCIAL_ALGORITHM_LINKEDIN.md): Full platform playbook, penalty teardown, and 3-asset content pack with algorithmic justifications.
+  - [**`FlyRank_Social_Algorithm_Playbook.pdf`**](./FlyRank_Social_Algorithm_Playbook.pdf): Publication PDF dossier deliverable.
+  - [**`submission_notes_social_algorithm.txt`**](./submission_notes_social_algorithm.txt): Copy-paste portal submission notes link kit.
+
 ### Week 6: Launch a Newsletter (Build · 3h)
 - **Publication Name:** **The Autonomous Search Dispatch** (by FlyRank)
 - **Live Signup URL:** [https://autonomoussearch.substack.com](https://autonomoussearch.substack.com)

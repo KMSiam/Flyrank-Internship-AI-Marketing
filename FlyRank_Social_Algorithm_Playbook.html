@@ -1,0 +1,374 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Crack the Social Media Algorithm: The LinkedIn Playbook for FlyRank</title>
+  <style>
+    @page {
+      size: A4 portrait;
+      margin: 16mm 14mm 16mm 14mm;
+    }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+      color: #0f172a;
+      background: #ffffff;
+      line-height: 1.45;
+      font-size: 9pt;
+      margin: 0;
+      padding: 0;
+    }
+    .header {
+      border-bottom: 2.5px solid #0077b5;
+      padding-bottom: 12px;
+      margin-bottom: 16px;
+      display: flex;
+      justify-content: space-between;
+      align-items: flex-start;
+    }
+    .badge {
+      display: inline-block;
+      padding: 2.5px 8px;
+      font-size: 8pt;
+      font-weight: 700;
+      text-transform: uppercase;
+      letter-spacing: 0.5px;
+      background: #e0f2fe;
+      color: #0284c7;
+      border-radius: 4px;
+      margin-bottom: 4px;
+    }
+    h1 {
+      font-size: 16pt;
+      color: #0f172a;
+      margin: 0 0 4px 0;
+      font-weight: 800;
+      line-height: 1.2;
+    }
+    .subtitle {
+      font-size: 9.5pt;
+      color: #64748b;
+      margin: 0;
+    }
+    .meta-grid {
+      display: grid;
+      grid-template-columns: repeat(4, 1fr);
+      gap: 8px;
+      background: #f8fafc;
+      border: 1px solid #e2e8f0;
+      border-radius: 6px;
+      padding: 10px;
+      margin-bottom: 16px;
+    }
+    .meta-item {
+      font-size: 8pt;
+    }
+    .meta-label {
+      color: #64748b;
+      font-weight: 600;
+      text-transform: uppercase;
+      font-size: 7pt;
+      margin-bottom: 2px;
+    }
+    .meta-val {
+      font-weight: 700;
+      color: #1e293b;
+    }
+    h2 {
+      font-size: 11pt;
+      color: #0369a1;
+      border-bottom: 1.5px solid #e2e8f0;
+      padding-bottom: 4px;
+      margin: 14px 0 8px 0;
+      text-transform: uppercase;
+      letter-spacing: 0.5px;
+      display: flex;
+      align-items: center;
+      gap: 6px;
+    }
+    h3 {
+      font-size: 9.5pt;
+      color: #0f172a;
+      margin: 10px 0 4px 0;
+      font-weight: 700;
+    }
+    p {
+      margin: 0 0 7px 0;
+      color: #334155;
+    }
+    .hero-box {
+      background: linear-gradient(135deg, #0a66c2 0%, #004182 100%);
+      color: #ffffff;
+      padding: 14px;
+      border-radius: 6px;
+      margin-bottom: 14px;
+      border-left: 4px solid #38bdf8;
+    }
+    .hero-box h3 {
+      color: #bae6fd;
+      margin-top: 0;
+      font-size: 11pt;
+    }
+    .hero-box p {
+      color: #f0f9ff;
+      font-size: 8.5pt;
+      margin-bottom: 6px;
+    }
+    .grid-2 {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 10px;
+      margin-bottom: 10px;
+    }
+    .card {
+      background: #ffffff;
+      border: 1px solid #e2e8f0;
+      border-radius: 6px;
+      padding: 10px;
+      box-shadow: 0 1px 2px rgba(0,0,0,0.02);
+    }
+    .card.blue {
+      border-top: 3px solid #0a66c2;
+    }
+    .card.emerald {
+      border-top: 3px solid #059669;
+    }
+    .card.amber {
+      border-top: 3px solid #d97706;
+    }
+    .card.purple {
+      border-top: 3px solid #7c3aed;
+    }
+    .post-container {
+      background: #f8fafc;
+      border: 1px solid #cbd5e1;
+      border-radius: 6px;
+      padding: 12px;
+      margin-bottom: 12px;
+      font-family: inherit;
+    }
+    .post-header {
+      display: flex;
+      justify-content: space-between;
+      border-bottom: 1px solid #e2e8f0;
+      padding-bottom: 6px;
+      margin-bottom: 8px;
+      font-size: 8pt;
+      font-weight: 700;
+      color: #0369a1;
+    }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: 8pt;
+      margin: 8px 0;
+    }
+    th, td {
+      border: 1px solid #cbd5e1;
+      padding: 5px 8px;
+      text-align: left;
+    }
+    th {
+      background: #f1f5f9;
+      color: #1e293b;
+      font-weight: 700;
+    }
+    ul, ol {
+      margin: 0 0 8px 0;
+      padding-left: 18px;
+      color: #334155;
+    }
+    li {
+      margin-bottom: 3px;
+    }
+    .tag {
+      display: inline-block;
+      background: #f1f5f9;
+      color: #475569;
+      padding: 1px 5px;
+      border-radius: 3px;
+      font-size: 7pt;
+      font-weight: 600;
+    }
+    .fit-box {
+      background: #f0fdf4;
+      border-left: 3px solid #16a34a;
+      padding: 6px 10px;
+      margin-top: 8px;
+      font-size: 8pt;
+      color: #166534;
+      border-radius: 0 4px 4px 0;
+    }
+    .footer {
+      margin-top: 18px;
+      border-top: 1px solid #e2e8f0;
+      padding-top: 8px;
+      font-size: 7.5pt;
+      color: #94a3b8;
+      display: flex;
+      justify-content: space-between;
+    }
+  </style>
+</head>
+<body>
+
+  <div class="header">
+    <div>
+      <span class="badge">AI Marketing · Week 7 · Build Phase</span>
+      <h1>Crack Social Media Algorithm: The LinkedIn Playbook</h1>
+      <p class="subtitle">Platform Mechanics, Algorithmic Scoring, Compliance, and High-Dwell Content Pack for FlyRank</p>
+    </div>
+    <div style="text-align: right;">
+      <div style="font-weight: 800; font-size: 11pt; color: #0a66c2;">FlyRank B2B Distribution</div>
+      <div style="font-size: 7.5pt; color: #64748b;">Autonomous Organic Engine</div>
+    </div>
+  </div>
+
+  <div class="meta-grid">
+    <div class="meta-item">
+      <div class="meta-label">Platform</div>
+      <div class="meta-val">LinkedIn (B2B Authority)</div>
+    </div>
+    <div class="meta-item">
+      <div class="meta-label">Selected Brand</div>
+      <div class="meta-val">FlyRank (Autonomous AI SEO & AEO)</div>
+    </div>
+    <div class="meta-item">
+      <div class="meta-label">Primary Metric</div>
+      <div class="meta-val">Dwell Time & 15+ Word Comments</div>
+    </div>
+    <div class="meta-item">
+      <div class="meta-label">Monetization</div>
+      <div class="meta-val">High-ACV SaaS Pipeline ($2.5k–$10k)</div>
+    </div>
+  </div>
+
+  <div class="hero-box">
+    <h3>The B2B Algorithmic Reality</h3>
+    <p>Unlike entertainment algorithms (TikTok/Instagram) optimized for dopamine-driven loops and micro creator payouts, <strong>LinkedIn’s 2026 algorithm</strong> is a professional classification machine. It measures <strong>Dwell Time</strong> (dwell-on-feed vs. dwell-on-expanded-content), <strong>Comment Depth</strong> (meaningful multi-sentence discussions), and <strong>interactive document swipes</strong>. For FlyRank, cracking this algorithm turns technical data into high-value inbound enterprise software demos.</p>
+  </div>
+
+  <h2>1. Platform Architecture: The 4 Core Signals</h2>
+  <div class="grid-2">
+    <div class="card blue">
+      <h3>1. Dwell Time (The Primary Signal)</h3>
+      <p>LinkedIn telemetry records how many seconds a user spends on a post. Expanding "see more" and consuming 1,200+ characters or multi-page slide decks signals high information density, pushing the content to 2nd- and 3rd-degree network feeds.</p>
+    </div>
+    <div class="card emerald">
+      <h3>2. Comment Depth & Golden Hour Velocity</h3>
+      <p>Reactions have a 1x baseline weight. Comments with <strong>15+ words carry 4x to 6x the distribution weight</strong> of a generic like. Author replies within the first 60 minutes act as an algorithmic accelerator.</p>
+    </div>
+  </div>
+
+  <div class="grid-2">
+    <div class="card purple">
+      <h3>3. Document Carousel Swiping</h3>
+      <p>PDF documents uploaded natively function as interactive micro-apps. Every single slide swipe registers an engagement event, multiplying dwell time and triggering broad out-of-network distribution.</p>
+    </div>
+    <div class="card amber">
+      <h3>4. Saves & Thoughtful Reposts</h3>
+      <p>"Save for later" actions indicate tactical bookmark value, while reposts that include added thoughts receive heavy distribution over basic instant reposts.</p>
+    </div>
+  </div>
+
+  <h2>2. Penalties, Shadowbans & Compliance Guardrails</h2>
+  <table>
+    <thead>
+      <tr>
+        <th style="width: 28%;">Algorithmic Risk / Limit</th>
+        <th style="width: 32%;">The Penalty</th>
+        <th style="width: 40%;">FlyRank Safeguard Protocol</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><strong>Outbound Link in Post Body</strong></td>
+        <td>40% to 50% reach demotion (LinkedIn keeps users on-platform).</td>
+        <td>Deliver 100% native value in the post. Pin the destination link in the <strong>first comment</strong>.</td>
+      </tr>
+      <tr>
+        <td><strong>Editing Within 15 Minutes</strong></td>
+        <td>Resets initial engagement score and halts micro-testing distribution.</td>
+        <td>Rigorous pre-publish proofreading; zero post-publish edits during the Golden Hour.</td>
+      </tr>
+      <tr>
+        <td><strong>Engagement Pods & Mass Tagging</strong></td>
+        <td>Algorithmic shadowban from automated spam classifiers.</td>
+        <td>Tag only 1–2 directly relevant contributors who are confirmed to reply meaningfully.</td>
+      </tr>
+      <tr>
+        <td><strong>FTC AI & Performance Compliance</strong></td>
+        <td>Regulatory penalties for misleading ROI guarantees.</td>
+        <td>All claims cite verifiable case studies (Praella 5.2x growth; 120,700 URL benchmark).</td>
+      </tr>
+    </tbody>
+  </table>
+
+  <h2>3. High-Performance Sample Content Pack</h2>
+
+  <!-- Asset 1 -->
+  <div class="post-container" style="border-top: 3px solid #7c3aed;">
+    <div class="post-header">
+      <span>ASSET #1: THE HIGH-DWELL DOCUMENT CAROUSEL (PDF SLIDE DECK)</span>
+      <span class="tag">Format: Native 8-Slide Document (1080x1350)</span>
+    </div>
+    <p><strong>Post Caption:</strong> Most marketing teams are still burning $4,000/month publishing 3,000-word blog posts that nobody will ever read. Meanwhile, their best commercial pages are quietly bleeding organic traffic after day 185. We just analyzed 120,700 URLs across commercial and editorial search queries to find what separates pages gaining rank from pages actively losing it. The finding shocked our research team: Word count was virtually identical (1,487 vs. 1,481 words). The real killer wasn't length—it was the 18.9% Age Gap. Swipe through the 8-slide teardown below to see the exact refresh protocol we use to reverse content decay before Google and Perplexity drop you from their answers. (Link in first comment).</p>
+    <div style="background: #f1f5f9; padding: 6px 10px; border-radius: 4px; font-size: 7.5pt; color: #475569;">
+      <strong>Slide Deck Architecture:</strong> S1: Hook Cover → S2: Word Count Myth (1,487 vs 1,481) → S3: The 18.9% Cliff (185 vs 228 days) → S4: ChatGPT Citation Bias → S5: 3-Step Refresh Protocol → S6: 50-Word Answer Formula → S7: Praella Case Study (5.2x leads) → S8: Bookmark & Save CTA.
+    </div>
+    <div class="fit-box">
+      <strong>Why this fits the algorithm:</strong> Document carousels maximize dwell time (>75 seconds) and multi-action swipe engagement, pushing the post past initial micro-testing into 2nd and 3rd degree executive feeds.
+    </div>
+  </div>
+
+  <!-- Asset 2 -->
+  <div class="post-container" style="border-top: 3px solid #0a66c2;">
+    <div class="post-header">
+      <span>ASSET #2: THE CONTRARIAN TEXT POST ("SEE MORE" DWELL-TIME MAXIMIZER)</span>
+      <span class="tag">Format: Native Long-Form Text (1,380 chars)</span>
+    </div>
+    <p><strong>Post Body:</strong><br>
+    Stop paying freelance writers $400 for new 3,000-word blog posts.<br><br>
+    In 2026, it is the fastest way to set your marketing budget on fire.<br><br>
+    Here is what most B2B founders don't realize:<br>
+    <em>...see more</em><br><br>
+    Google isn't ranking long articles anymore. And ChatGPT isn't citing them either. When we crawled 120,700 URLs for our State of AI-Driven SEO study, we found something that made every SEO agency cringe: Pages gaining organic traffic averaged 1,487 words; pages bleeding traffic averaged 1,481 words. A difference of exactly 6 words. What decided momentum was age: growing pages were 18.9% younger (185 days vs. 228 days). Every commercial page has a shelf life of ~6 months before AI answer engines begin testing fresher sources. Reallocate 50% of your budget to page refreshes and entity schema. Are you still prioritizing new volume over refreshes, or have you noticed the 6-month decay cliff in your own Search Console? Drop your thoughts below.<br><br>
+    <strong>Pinned 1st Comment:</strong> Full 120,700 URL benchmark study and free diagnostic scanner: https://state-of-seo-2026.flyrank.ai</p>
+    <div class="fit-box">
+      <strong>Why this fits the algorithm:</strong> The 3-line hook triggers "see more" click expansion, high whitespace accelerates vertical reading speed, zero outbound links prevent reach penalties, and the closing question drives 15+ word practitioner comments.
+    </div>
+  </div>
+
+  <!-- Asset 3 -->
+  <div class="post-container" style="border-top: 3px solid #059669;">
+    <div class="post-header">
+      <span>ASSET #3: THE SOCIAL PROOF / CASE STUDY FRAMEWORK (ENTERPRISE PIPELINE DRIVER)</span>
+      <span class="tag">Format: Native Story Breakdown (1,420 chars)</span>
+    </div>
+    <p><strong>Post Body:</strong><br>
+    B2B digital agency Praella had 300+ published articles on their blog. Traffic looked fine on paper, but their inbound demo pipeline had completely stalled. Here is how they generated 5.2x more search leads in 90 days without publishing a single new article: We identified three bottlenecks: Ghost traffic from zero-click AI Overviews, the 185-day decay problem where competitors took citations, and unstructured entity data. Praella deployed an autonomous refresh sprint: audited 45 commercial URLs, injected 50-word direct answers under H2s, and structured Organization/Service schema. The Result: 5.2x inbound search leads, tripled sales pipeline, and featured citations in ChatGPT commercial queries. You don't need more content—you need machine-readable, fresh authority.<br><br>
+    <strong>Pinned 1st Comment:</strong> Read the verified Praella case study breakdown here: https://flyrank.ai/results</p>
+    <div class="fit-box">
+      <strong>Why this fits the algorithm:</strong> Solves a high-intent B2B executive problem ("traffic high, leads stalled"), driving profile clicks and qualified demo conversions without triggering promotional flags.
+    </div>
+  </div>
+
+  <h2>4. B2B Monetization Engine on LinkedIn</h2>
+  <div class="grid-2">
+    <div class="card blue">
+      <h3>The Pipeline Funnel</h3>
+      <p>FlyRank does not monetize via vanity creator payouts. Every high-dwell post funnels qualified B2B decision-makers to the author profile, where the featured section offers the <strong>Free 60-Second AI Citation Audit</strong>, driving high-ticket ARR contracts ($2,500–$10,000/month).</p>
+    </div>
+    <div class="card emerald">
+      <h3>Agency & Partner Retainers</h3>
+      <p>Publishing verified client proof (e.g. Praella) attracts digital agencies seeking white-label or partner implementations across dozens of client domains, compounding organic acquisition efficiency.</p>
+    </div>
+  </div>
+
+  <div class="footer">
+    <div>FlyRank AI Marketing · Week 7 Capstone Build · Author: KM Siam</div>
+    <div>Target Platform: LinkedIn · Brand: FlyRank.ai · Repository: Flyrank-Internship-AI-Marketing</div>
+  </div>
+
+</body>
+</html>
