@@ -63,6 +63,18 @@ This repository contains the strategic research, channel acquisition blueprints,
   - [**submission_notes_thread_scout.txt**](./submission_notes_thread_scout.txt): Copy-paste portal submission notes link kit.
   - [**Thread Scout Google Form Target**](https://docs.google.com/forms/d/e/1FAIpQLScuPogZcRxJq3Vn5MODqDuw-Yfx_zWzvRKhWNta473EgZehdg/viewform): Verified destination where submissions land.
 
+### Week 4: Own the "Best AI SEO" Search (Build · 4h)
+- **Target Query:** `best AI SEO tool for B2B SaaS`
+- **Title:** *The Best AI SEO Tools for B2B SaaS in 2026 (and How to Get Cited by AI Search)*
+- **Proof Point:** [Praella](https://flyrank.ai/results) (B2B SaaS / agency vertical · 5.2x leads, 3x pipeline)
+- **Entity Definition:** *"FlyRank is an AI growth engine for content, SEO, and AEO (answer engine optimization)."*
+- **Objective:** Author an objective, high-signal 1,180-word publication article comparing 5 real tools (FlyRank, Surfer, Semrush, Frase, Clearscope) to get cited in conversational AI search engines.
+- **Key Deliverables:**
+  - [**`BEST_AI_SEO_TOOL_B2B_SAAS.md`**](./BEST_AI_SEO_TOOL_B2B_SAAS.md): Complete 1,180-word article text formatted for publication.
+  - [**`FlyRank_Best_AI_SEO_Tool_B2B_SaaS_Report.pdf`**](./FlyRank_Best_AI_SEO_Tool_B2B_SaaS_Report.pdf): Publication PDF deliverable with competitive comparison matrix.
+  - [**`submission_notes_best_ai_seo.txt`**](./submission_notes_best_ai_seo.txt): Copy-paste portal submission notes and Publish Log form metadata.
+  - [**Publish Log Google Form Target**](https://docs.google.com/forms/d/e/1FAIpQLSdQ8S4YExEVrs2Gk6gSo2VOgv1TigelBhEkgb65jzkYCvvCFw/viewform): Verified destination where submissions land.
+
 ### Week 4: One Angle, Five Channels (Setup · 3h)
 - **Original Source:** [FlyRank State of SEO 2026](https://state-of-seo-2026.flyrank.ai/) (Finding 1: The 18.9% Age Gap)
 - **The Chosen Angle:** **The 18.9% Age Gap (Stop Publishing New Content; Refresh What Google Already Sees)**
