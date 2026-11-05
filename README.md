@@ -63,6 +63,15 @@ This repository contains the strategic research, channel acquisition blueprints,
   - [**submission_notes_thread_scout.txt**](./submission_notes_thread_scout.txt): Copy-paste portal submission notes link kit.
   - [**Thread Scout Google Form Target**](https://docs.google.com/forms/d/e/1FAIpQLScuPogZcRxJq3Vn5MODqDuw-Yfx_zWzvRKhWNta473EgZehdg/viewform): Verified destination where submissions land.
 
+### Week 5: Steal the Scroll: Client Ad Audit (Setup · 3h)
+- **Client Selected:** **Cymbiotika** (Health & Longevity DTC · [FlyRank Case Study: 4.96x growth](https://flyrank.ai/results))
+- **Competitors Analyzed:** AG1 (Athletic Greens), Thorne, MaryRuth Organics (via Meta Ad Library & Google Ads Transparency Center).
+- **Core Findings:** Deconstructs category pattern fatigue (marble kitchen UGC, symptom checklists) and formulates breakthrough creative angles for Meta/TikTok (Interrupt) and Google (Intent).
+- **Key Deliverables:**
+  - [**`CLIENT_AD_AUDIT_CYMBIOTIKA.md`**](./CLIENT_AD_AUDIT_CYMBIOTIKA.md): Comprehensive ad teardown, competitor matrix, and creative production specs.
+  - [**`FlyRank_Client_Ad_Audit_Cymbiotika_Report.pdf`**](./FlyRank_Client_Ad_Audit_Cymbiotika_Report.pdf): Publication PDF deliverable with visual mockups and comparison tables.
+  - [**`submission_notes_ad_audit.txt`**](./submission_notes_ad_audit.txt): Copy-paste portal submission notes link kit.
+
 ### Week 4: Own the "Best AI SEO" Search (Build · 4h)
 - **Target Query:** `best AI SEO tool for B2B SaaS`
 - **Title:** *The Best AI SEO Tools for B2B SaaS in 2026 (and How to Get Cited by AI Search)*

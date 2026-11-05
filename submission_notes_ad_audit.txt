@@ -1,0 +1,32 @@
+================================================================================
+AI MARKETING TRACK: WEEK 5 AD AUDIT ASSIGNMENT SUBMISSION
+Steal the Scroll: Client Ad Audit · Setup Phase · Workload: 3h
+================================================================================
+
+1. DELIVERABLE LINKS:
+https://github.com/KMSiam/Flyrank-Internship-AI-Marketing
+https://github.com/KMSiam/Flyrank-Internship-AI-Marketing/blob/main/CLIENT_AD_AUDIT_CYMBIOTIKA.md
+https://github.com/KMSiam/Flyrank-Internship-AI-Marketing/blob/main/FlyRank_Client_Ad_Audit_Cymbiotika_Report.pdf
+https://flyrank.ai/results
+https://github.com/KMSiam/Flyrank-Internship-AI
+
+2. NOTES / CONTEXT FOR REVIEWERS:
+Competitive ad teardown of FlyRank client Cymbiotika (Health & Longevity, 4.96x impression growth, 1.78M clicks) against direct category competitors (AG1, Thorne, MaryRuth Organics) using Meta Ad Library and Google Ads Transparency Center:
+
+- What Is Generic (The Category Sea of Sameness):
+  1. Marble kitchen morning routine UGC (pour/squeeze into water), swiped past in <0.8s.
+  2. Generic "brain fog & fatigue" symptom checklists with red X emojis.
+  3. Sterile "doctor in a lab coat holding a bottle" authority claims without biological mechanism.
+
+- What Is Working (High-Performing Outliers):
+  1. Visceral side-by-side physical demos (chalky pill dissolution vs liposomal micelle dispersion).
+  2. The "Expensive Urine" financial waste hook (absorbing 15% means flushing 85% of supplement spend down the toilet).
+
+- Stand-Out Recommendation for Meta & TikTok (Interrupt):
+  "The Beaker Dissolution Test" (0-2s split-screen hook with simulated pH 1.5 stomach acid showing why hard tablets fail to break down, visually proving Cymbiotika's liposomal cellular delivery).
+
+- Stand-Out Recommendation for Google Search & Display (Intent):
+  Direct Bioavailability Comparison targeting "pills vs liposomal" and competitor switchers (Headline: "Absorb 5x More Nutrients Than Pills | Cymbiotika®" with a 15% off first order offer, bioavailability quiz, and 30-day guarantee).
+
+Full competitive matrix, visual creative specs, and audit roadmap documented in CLIENT_AD_AUDIT_CYMBIOTIKA.md and publication PDF.
+================================================================================
