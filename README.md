@@ -54,6 +54,15 @@ This repository contains the strategic research, channel acquisition blueprints,
   - [**FlyRank_State_Of_SEO_Content_Pack_Report.pdf**](./FlyRank_State_Of_SEO_Content_Pack_Report.pdf): Formal publication PDF report and content matrix.
   - [**submission_notes_repurpose_seo.txt**](./submission_notes_repurpose_seo.txt): Copy-paste portal submission notes link kit.
 
+### Week 4: Community Thread Scout (find, don't post) (Build · 1h)
+- **Operational Rule:** **Find, Don't Post.** Strict zero-spam policy. Formatted for the dedicated brand outreach team.
+- **Objective:** Systematically scour high-intent Reddit and community discussions (r/SEO, r/SaaS, r/shopify, r/bigseo, r/ChatGPT, r/Entrepreneur) for operators facing traffic drops or asking for AI SEO / GEO tools.
+- **Key Deliverables:**
+  - [**COMMUNITY_THREAD_SCOUT.md**](./COMMUNITY_THREAD_SCOUT.md): Dossier containing 6 vetted, qualified community threads with exact URLs, engagement stats, relevance, and value-first response angles.
+  - [**FlyRank_Thread_Scout_Report.pdf**](./FlyRank_Thread_Scout_Report.pdf): Publication PDF deliverable formatted for review.
+  - [**submission_notes_thread_scout.txt**](./submission_notes_thread_scout.txt): Copy-paste portal submission notes link kit.
+  - [**Thread Scout Google Form Target**](https://docs.google.com/forms/d/e/1FAIpQLScuPogZcRxJq3Vn5MODqDuw-Yfx_zWzvRKhWNta473EgZehdg/viewform): Verified destination where submissions land.
+
 ## 3. Quickstart & Repository Navigation
 
 All research files, channel audits, test schedules, and publication artifacts are organized as follows:

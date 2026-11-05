@@ -1,0 +1,27 @@
+================================================================================
+AI MARKETING TRACK: WEEK 4 ASSIGNMENT SUBMISSION
+Community Thread Scout (Find, Don't Post) · Build Phase · Workload: 1h
+================================================================================
+
+1. DELIVERABLE LINKS:
+https://github.com/KMSiam/Flyrank-Internship-AI-Marketing
+https://github.com/KMSiam/Flyrank-Internship-AI-Marketing/blob/main/COMMUNITY_THREAD_SCOUT.md
+https://github.com/KMSiam/Flyrank-Internship-AI-Marketing/blob/main/FlyRank_Thread_Scout_Report.pdf
+https://docs.google.com/forms/d/e/1FAIpQLScuPogZcRxJq3Vn5MODqDuw-Yfx_zWzvRKhWNta473EgZehdg/viewform
+https://github.com/KMSiam/Flyrank-Internship-AI
+
+2. NOTES / CONTEXT FOR REVIEWERS:
+Scouting pass identifying 6 live, qualified community discussions across Reddit (r/SEO, r/SaaS, r/shopify, r/bigseo, r/ChatGPT, r/Entrepreneur) where operators are experiencing organic traffic drops and actively asking for modern AI SEO / GEO playbooks:
+
+- Strict Zero-Posting Compliance: Zero comments, replies, or self-promotional links were posted to any thread. All intelligence is packaged as form-ready briefs for the dedicated FlyRank response team.
+
+- Qualified Threads Matrix & Angles:
+  1. r/SEO (142 upvotes, 68 cmts): Optimizing for Perplexity & ChatGPT Search. Angle: Share empirical data from 120k URL report proving only 11% citation overlap and the value of direct answer density.
+  2. r/SaaS (94 upvotes, 47 cmts): 40% organic traffic collapse post-AI Overviews. Angle: Deconstruct CTR cliff data (<1.2% CTR on informational queries) and recommend programmatic comparison hubs (/vs/competitor).
+  3. r/shopify (78 upvotes, 53 cmts): E-commerce store sessions cratered. Angle: Diagnose the 185-day age curve and outline a 3-step automated schema refresh.
+  4. r/bigseo (118 upvotes, 59 cmts): Tracking citations in LLMs. Angle: Share 1.06% AI referral discovery data and explain direct referral headers vs prompt sampling.
+  5. r/ChatGPT (86 upvotes, 39 cmts): Finding legitimate AI SEO tools vs spam. Angle: Debunk Myth #4 (penalties target zero information gain, not AI origin); focus on autonomous schema execution.
+  6. r/Entrepreneur (65 upvotes, 31 cmts): Surfer SEO alternatives for bootstrapped founders. Angle: Contrast legacy keyword-density models against entity graphs and automated domain scanners.
+
+All threads formatted to match the exact schema of the Google Form and compiled into COMMUNITY_THREAD_SCOUT.md and publication PDF.
+================================================================================
