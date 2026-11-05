@@ -1,0 +1,36 @@
+================================================================================
+AI MARKETING TRACK: WEEK 2 ASSIGNMENT SUBMISSION
+Find an Untapped Channel (Build Phase · Workload: 3h)
+================================================================================
+
+1. DELIVERABLE LINKS:
+https://github.com/KMSiam/Flyrank-Internship-AI-Marketing
+https://github.com/KMSiam/Flyrank-Internship-AI-Marketing/blob/main/UNTAPPED_CHANNELS.md
+https://github.com/KMSiam/Flyrank-Internship-AI-Marketing/blob/main/FlyRank_Untapped_Channel_Report.pdf
+https://github.com/KMSiam/Flyrank-Internship-AI
+
+2. NOTES / CONTEXT FOR REVIEWERS:
+Ranked shortlist of 5 verified, high-intent acquisition channels beyond saturated Meta ads, cold email, and LinkedIn:
+
+1. GEO & AI Search Citation Networks (Top Bet | $0 | 7-10 days):
+   Targeting founders using Perplexity and SearchGPT via open-source GEO schema benchmarks on GitHub/Perplexity Pages to capture AI answer citations.
+   Test: Publish "2026 Generative Engine Optimization Benchmark & Schema Blueprint" on GitHub and Perplexity Collections with UTM tracking.
+
+2. Private Shopify Merchant Communities ($0 | 5-7 days):
+   Reaching e-commerce operators in eCom Fuel and Trends.vc Slacks facing catalog rank drops.
+   Test: Deliver 5 free automated "Autonomous SEO & Broken Schema Teardowns" in #seo-growth as high-trust case studies.
+
+3. Tactical Operator Newsletters (~$350 | 14 days):
+   Direct 50-word native ad placements in Demand Curve and Growth Unhinged targeting agency operators.
+   Test: Sponsor single native ad: "We automated 500 programmatic SEO pages in 10 minutes—here's the case study & free scanner."
+
+4. "Alternative To" Directories ($0 | 14 days):
+   Capturing bottom-of-funnel buyers on AlternativeTo and SaaSHub searching for "Surfer SEO alternative".
+   Test: Launch optimized listing profiles with side-by-side feature matrix linking to dedicated interactive comparison page.
+
+5. Build-in-Public SaaS Communities ($0 | 3-5 days):
+   Technical case studies on /r/SaaS and Indie Hackers detailing programmatic organic traffic recovery.
+   Test: Zero-pitch Reddit case study: "How 10 SaaS sites recovered 60% of Google traffic post-HCU using autonomous programmatic SEO."
+
+Full strategic analysis, audience sizing, CAC models, and test blueprints documented in UNTAPPED_CHANNELS.md and publication PDF.
+================================================================================

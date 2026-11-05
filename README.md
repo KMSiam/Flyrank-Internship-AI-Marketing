@@ -1,0 +1,59 @@
+# FlyRank AI Marketing Track
+
+![Track](https://img.shields.io/badge/Track-AI_Marketing-purple.svg)
+![Candidate](https://img.shields.io/badge/Engineer-KM_Siam-emerald.svg)
+![AI Platform](https://img.shields.io/badge/AI_Platform-Google_Antigravity-4285F4.svg)
+![Model](https://img.shields.io/badge/Model-Gemini_3.8_Flash-orange.svg)
+![License](https://img.shields.io/badge/License-MIT-gray.svg)
+
+This repository contains the strategic research, channel acquisition blueprints, growth experiments, and execution playbooks for the **FlyRank AI Marketing Track**. It reflects data-driven, customer-centric distribution strategies across B2B SaaS, Generative Engine Optimization (GEO), AI Search, and high-leverage community ecosystems.
+
+---
+
+## 1. Candidate & Track Profile
+
+- **Candidate / Marketer:** KM Siam (`k.m.siam2019@gmail.com`)
+- **Institution:** Southeast University (SEU), Dhaka | FlyRank AI Intern
+- **Track:** AI Marketing
+- **Platform:** Google Antigravity (Powered by Gemini 3.8 Flash / Advanced Agentic Coding)
+- **Primary Positioning:** Autonomous SEO & Generative Engine Optimization (GEO) Intelligence Platform for Founders, E-Commerce Brands, and Performance Agencies.
+
+---
+
+## 2. Completed Milestones & Assignments
+
+### Week 2: Find an Untapped Channel
+- **Assignment Type:** Build Phase · Workload: 3h
+- **Objective:** Move beyond saturated acquisition loops (Meta Ads, generic Cold Email, LinkedIn outreach) to identify, validate, and prioritize high-intent niche channels where founders, growth marketers, e-commerce brands, and agency operators congregate.
+- **Key Deliverables:**
+  - [**`UNTAPPED_CHANNELS.md`**](./UNTAPPED_CHANNELS.md): Deep-dive strategic audit of the Top 5 untapped acquisition channels with audience sizing, CAC projections, and rapid test plans.
+  - [**`FlyRank_Untapped_Channel_Report.pdf`**](./FlyRank_Untapped_Channel_Report.pdf): Publication-ready executive pitch deck and briefing dossier.
+  - [**`submission_notes_week2.txt`**](./submission_notes_week2.txt): Direct portal submission copy-paste link kit.
+- **Top 5 Untapped Channel Shortlist:**
+  1. 🥇 **AI Search Citation Networks & GEO Aggregators (Perplexity Pages, ChatGPT Search, Cursor Directory):** Seeding structured brand knowledge graphs and high-authority benchmarks for Generative Engine Optimization.
+  2. 🥈 **Shopify Enterprise Community Forums & Private Merchant Slacks (eCom Fuel, Quick E-Commerce Founders):** High-intent merchant pain points targeting automated schema markups, organic catalog indexing, and Shopify collection rank decay.
+  3. 🥉 **B2B Growth Engineering & Product Hunt Maker Sub-Ecosystems (Indie Hackers, /r/SaaS, FOC):** Zero-friction teardowns of SaaS technical SEO debt and autonomous AI sitemapping.
+  4. 🏅 **Micro-Sponsorships in Tactical Operator Newsletters (Marketing Against the Grain, Neil Patel's Quick Sprout, Demand Curve):** High-intent curation directly landing in the inboxes of performance agency owners.
+  5. 🎖️ **AI SEO Tool Roundups & VS Comparison Pages (AlternativeTo, SourceForge, ProductHunt Collections):** High-intent buyer search capturing users searching for "Surfer SEO alternative" or "Semrush for AI".
+
+---
+
+## 3. Quickstart & Repository Navigation
+
+All research files, channel audits, test schedules, and publication artifacts are organized as follows:
+
+```
+AI Marketing/
+├── README.md                           # Track overview and index
+├── UNTAPPED_CHANNELS.md                # Comprehensive 5-channel analysis & playbooks
+├── FlyRank_Untapped_Channel_Report.html# Clean printable publication source
+├── FlyRank_Untapped_Channel_Report.pdf # Formal PDF dossier deliverable
+└── submission_notes_week2.txt          # Portal submission link bundle
+```
+
+---
+
+## 4. License
+
+Designed and documented by **KM Siam** during the **FlyRank AI Marketing Internship** (2026).  
+Licensed under the [MIT License](./LICENSE).
