@@ -46,6 +46,14 @@ This repository contains the strategic research, channel acquisition blueprints,
   - [**FlyRank_Niche_Playbook_B2B_SaaS.pdf**](./FlyRank_Niche_Playbook_B2B_SaaS.pdf): Compact single-page publication PDF deliverable.
   - [**submission_notes_week3.txt**](./submission_notes_week3.txt): Copy-paste portal submission notes link kit.
 
+### Week 3: Repurpose the State of SEO 2026 Report (Foundations · 5h)
+- **Source Research:** [FlyRank The State of AI-Driven SEO 2026](https://state-of-seo-2026.flyrank.ai/) (120,700 URLs & 1.7M sessions)
+- **Objective:** Repurpose landmark empirical SEO research into a week-long multi-channel content pack spanning blogs, LinkedIn, X, Instagram, Canva specs, and short-form video scripts.
+- **Key Deliverables:**
+  - [**STATE_OF_SEO_2026_CONTENT_PACK.md**](./STATE_OF_SEO_2026_CONTENT_PACK.md): Full multi-channel content pack with 3 blogs, 3 social assets, Canva image specs, and 2 video scripts.
+  - [**FlyRank_State_Of_SEO_Content_Pack_Report.pdf**](./FlyRank_State_Of_SEO_Content_Pack_Report.pdf): Formal publication PDF report and content matrix.
+  - [**submission_notes_repurpose_seo.txt**](./submission_notes_repurpose_seo.txt): Copy-paste portal submission notes link kit.
+
 ## 3. Quickstart & Repository Navigation
 
 All research files, channel audits, test schedules, and publication artifacts are organized as follows:

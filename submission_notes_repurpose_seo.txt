@@ -1,0 +1,34 @@
+================================================================================
+AI MARKETING TRACK: WEEK 3 REPURPOSING ASSIGNMENT SUBMISSION
+Repurpose the State of SEO 2026 Report (Foundations Phase · Workload: 5h)
+================================================================================
+
+1. DELIVERABLE LINKS:
+https://github.com/KMSiam/Flyrank-Internship-AI-Marketing
+https://github.com/KMSiam/Flyrank-Internship-AI-Marketing/blob/main/STATE_OF_SEO_2026_CONTENT_PACK.md
+https://github.com/KMSiam/Flyrank-Internship-AI-Marketing/blob/main/FlyRank_State_Of_SEO_Content_Pack_Report.pdf
+https://state-of-seo-2026.flyrank.ai/
+https://github.com/KMSiam/Flyrank-Internship-AI
+
+2. NOTES / CONTEXT FOR REVIEWERS:
+Multi-channel content pack transforming FlyRank's empirical study of 120,700 URLs and 1.7M sessions (state-of-seo-2026.flyrank.ai) into a week's worth of channel-native distribution assets:
+
+- 3 Standalone Long-Form Blog Posts:
+  1. "The Age Gap Killing Your Organic Traffic": Deep dive into the 18.9% age difference (185d vs 228d) between growing and declining URLs, proving freshness decay over length.
+  2. "The 1.06% AI Referral Tipping Point": How ChatGPT and Perplexity drove 17,693 sessions with 3.2x higher conversion rates, outlining a Generative Engine Optimization (GEO) framework.
+  3. "Busting the 2,500-Word SEO Myth": Demonstrating that word count has near-zero correlation with ranking velocity (r = 0.04), establishing the Information Velocity principle.
+
+- Channel-Native Social Media Suite:
+  - LinkedIn Post: Tailored for B2B founders and CMOs breaking down the 1,487 vs 1,481 word count parity and proposing a 3-step refresh program.
+  - X (Twitter) Mega-Thread: 10-tweet thread covering CTR cliffs, Perplexity referrals, and schema citation multipliers.
+  - Instagram Carousel: 5-slide visual sequence with dark navy/cyan contrast graphics comparing winning vs dying URLs.
+
+- Visual Asset Specifications:
+  Canva-ready layout specs, typography hierarchies, and brand hex codes (#090D16, #0284C7, #10B981) for 2 stat cards and a 3-tier vertical infographic.
+
+- 2 Short-Form Video Scripts:
+  1. "The 18.9% Rule (Why Your Content Is Dying)": 45s punchy vertical video with screen overlays and word-for-word cues.
+  2. "Where Did 17,000 AI Search Clicks Come From?": 55s conversational breakdown for Reels, Shorts, and TikTok.
+
+Every asset links directly back to https://state-of-seo-2026.flyrank.ai/. Complete copy, calendar, and specs documented in STATE_OF_SEO_2026_CONTENT_PACK.md and publication PDF.
+================================================================================
