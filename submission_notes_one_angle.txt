@@ -1,0 +1,31 @@
+================================================================================
+AI MARKETING TRACK: WEEK 4 COPYWRITING ASSIGNMENT SUBMISSION
+One Angle, Five Channels · Setup Phase · Workload: 3h
+================================================================================
+
+1. DELIVERABLE LINKS:
+https://github.com/KMSiam/Flyrank-Internship-AI-Marketing
+https://github.com/KMSiam/Flyrank-Internship-AI-Marketing/blob/main/ONE_ANGLE_FIVE_CHANNELS.md
+https://github.com/KMSiam/Flyrank-Internship-AI-Marketing/blob/main/FlyRank_One_Angle_Five_Channels_Report.pdf
+https://state-of-seo-2026.flyrank.ai/
+https://github.com/KMSiam/Flyrank-Internship-AI
+
+2. NOTES / CONTEXT FOR REVIEWERS:
+Multi-channel copywriting exercise selecting FlyRank's core empirical research claim and adapting it into five channel-native formats while maintaining the exact same underlying angle:
+
+- Original Source & Copy:
+  FlyRank "The State of AI-Driven SEO 2026" (state-of-seo-2026.flyrank.ai, Finding 1):
+  "Word count is almost the same in both groups (1.5K vs 1.5K). Age is the real gap. Growing pages are 18.9% younger (185 vs 228 days). Declining pages aren't necessarily bad — many still get traffic. They're just older and losing momentum. Stop publishing more content. Fix the pages Google already sees."
+
+- The Chosen Angle:
+  "The 18.9% Age Gap (Stop Publishing New Posts; Refresh What Google Already Sees)" — busting the myth that writing more 3,000-word skyscraper content fixes organic traffic decay.
+
+- Five Channel-Native Rewrites:
+  1. Sales Landing Page (Benefit-Led, 350 words): Pain-Agitation-Solution architecture showing how after 185 days pages lose informational momentum, introducing FlyRank's automated refresh engine with a free 60-second scan CTA.
+  2. Meta Ad (Pattern Interrupt, 120 words): Casual scroll-stopper leading with the surprising 1,487 vs 1,481 word count comparison graphic.
+  3. Google Display Ad (Ultra-Concise, 25 words): Responsive banner headlines and description driving immediate clicks to the free scanner.
+  4. Cold Outreach Email (Personal & Low-Key, 135 words): Zero-hype, founder-to-founder observation noting un-updated URLs in the prospect's sitemap with a soft ask for a 2-minute Loom video.
+  5. LinkedIn Post (Story-Led Insight, 240 words): Conversational thought leadership deconstructing the failure of the agency skyscraper model and inviting discussion.
+
+Complete word-for-word copy, comparison matrix, and Canva asset specs documented in ONE_ANGLE_FIVE_CHANNELS.md and publication PDF.
+================================================================================

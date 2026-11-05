@@ -63,6 +63,15 @@ This repository contains the strategic research, channel acquisition blueprints,
   - [**submission_notes_thread_scout.txt**](./submission_notes_thread_scout.txt): Copy-paste portal submission notes link kit.
   - [**Thread Scout Google Form Target**](https://docs.google.com/forms/d/e/1FAIpQLScuPogZcRxJq3Vn5MODqDuw-Yfx_zWzvRKhWNta473EgZehdg/viewform): Verified destination where submissions land.
 
+### Week 4: One Angle, Five Channels (Setup · 3h)
+- **Original Source:** [FlyRank State of SEO 2026](https://state-of-seo-2026.flyrank.ai/) (Finding 1: The 18.9% Age Gap)
+- **The Chosen Angle:** **The 18.9% Age Gap (Stop Publishing New Content; Refresh What Google Already Sees)**
+- **Objective:** Take one sharp empirical angle and rewrite it across five distinct channels (Sales Landing Page, Meta Ad, Google Display Ad, Cold Outreach Email, LinkedIn Post) matching native consumption habits.
+- **Key Deliverables:**
+  - [**ONE_ANGLE_FIVE_CHANNELS.md**](./ONE_ANGLE_FIVE_CHANNELS.md): Complete copywriting dossier with all five channel rewrites, formatting, and comparison matrix.
+  - [**FlyRank_One_Angle_Five_Channels_Report.pdf**](./FlyRank_One_Angle_Five_Channels_Report.pdf): Publication PDF deliverable with channel breakdowns.
+  - [**submission_notes_one_angle.txt**](./submission_notes_one_angle.txt): Copy-paste portal submission notes link kit.
+
 ## 3. Quickstart & Repository Navigation
 
 All research files, channel audits, test schedules, and publication artifacts are organized as follows:
