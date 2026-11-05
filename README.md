@@ -38,6 +38,14 @@ This repository contains the strategic research, channel acquisition blueprints,
 
 ---
 
+### Week 3: Know Your Niche Assignment (Foundations · 3h)
+- **Client Vertical:** B2B SaaS (Example: FlyRank — Autonomous SEO & Generative Engine Optimization Platform)
+- **Objective:** Deliver an actionable, single-page vertical playbook for a new growth marketer covering the top 3 channels, the #1 bottleneck, and high-leverage AI workflows.
+- **Key Deliverables:**
+  - [**NICHE_PLAYBOOK_B2B_SAAS.md**](./NICHE_PLAYBOOK_B2B_SAAS.md): Actionable single-page vertical playbook for B2B SaaS growth marketing.
+  - [**FlyRank_Niche_Playbook_B2B_SaaS.pdf**](./FlyRank_Niche_Playbook_B2B_SaaS.pdf): Compact single-page publication PDF deliverable.
+  - [**submission_notes_week3.txt**](./submission_notes_week3.txt): Copy-paste portal submission notes link kit.
+
 ## 3. Quickstart & Repository Navigation
 
 All research files, channel audits, test schedules, and publication artifacts are organized as follows:
