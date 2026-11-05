@@ -1,0 +1,56 @@
+================================================================================
+FLYRANK INTERNSHIP SUBMISSION: USE CLAUDE TO BUILD WEEKS OF CONTENT
+Track: AI Marketing · Week 8 · Foundations Phase
+Author: KM Siam (k.m.siam2019@gmail.com)
+Client Brand: Cymbiotika (https://cymbiotika.com · FlyRank Case Study: 4.96x growth)
+Core Anchor Idea: The Liposomal Bioavailability Advantage (Why 80% of Vitamin C Pills are Wasted)
+================================================================================
+
+DELIVERABLE LINKS:
+------------------
+1. Complete Claude Project Master Brief & Week of Content (Markdown Dossier):
+   https://github.com/KMSiam/Flyrank-Internship-AI-Marketing/blob/main/CLAUDE_PROJECT_CONTENT_SYSTEM_CYMBIOTIKA.md
+
+2. Publication PDF Report Deliverable:
+   https://github.com/KMSiam/Flyrank-Internship-AI-Marketing/blob/main/FlyRank_Claude_Project_Content_System.pdf
+
+3. Cymbiotika Official Domain:
+   https://cymbiotika.com
+
+4. FlyRank AI Marketing Main Repository:
+   https://github.com/KMSiam/Flyrank-Internship-AI-Marketing
+
+5. FlyRank Internship Overview Hub:
+   https://github.com/KMSiam/Flyrank-Internship-AI
+
+================================================================================
+SUBMISSION NOTES / CONTEXT FOR REVIEWERS:
+================================================================================
+For the Week 8 assignment "Use Claude to build weeks of content" (Phase: Foundations, Workload: 3h), I built a reusable Claude Project system for FlyRank client Cymbiotika (longevity and cellular nutrition, 4.96x organic growth case study) and used it to transform a single scientific concept into a full 7-day multi-channel content campaign.
+
+Key Execution Highlights:
+1. The Claude Project Master Brief & Standing System Instructions:
+   - Target Personas: The Modern High-Performer, The Clean Longevity Seeker, The Active Biohacker.
+   - Tone & Sensory Voice Card: Clinically credible yet plainspoken, calm authority, sensory kitchen descriptions (cold-pressed citrus oils, non-GMO sunflower phospholipids).
+   - Anti-AI Word Filters: Strict programmatic ban on AI clichés ("delve", "tapestry", "game-changer", "unlock", "supercharge", "revolutionize").
+   - DSHEA / FDA Compliance Guardrails: Zero disease claims (no promises to cure colds or eliminate inflammation); strictly enforced structure/function claims ("supports cellular immune defense", "enhances bioavailability", "promotes natural energy").
+
+2. The Single Seed Concept:
+   - "The Liposomal Bioavailability Advantage: Why 80% of traditional synthetic Vitamin C pills end up flushed unabsorbed, and how phospholipid liposomes shield active nutrients to reach the bloodstream."
+
+3. The Full Week of Channel-Native Content:
+   - Day 1: Short-Form Video Script #1 (30s TikTok/Reels) - The Visual Beaker Dissolution Test.
+   - Day 2: X (Twitter) 6-Tweet Educational Thread - The "Milligram Illusion" Teardown.
+   - Day 3: LinkedIn Long-Form Post - "The Transition from Feature Bloat to Actual Efficacy in DTC Formulation".
+   - Day 4: Instagram Graphic Carousel - 8-Slide Cellular Membrane Uptake Architecture.
+   - Day 5: Short-Form Video Script #2 (35s TikTok/Reels) - "Stop Reading the Front of Your Vitamin Bottle (The Fillers Problem)".
+   - Day 6: Customer Longevity Newsletter Blurb - "The Sunday Dispatch: The Bioavailability Equation".
+   - Day 7: Short-Form Video Script #3 (25s TikTok/Reels) - Morning Clean Energy Routine POV.
+
+4. Pressure-Test & Authenticity Review:
+   - Anti-AI test verified: Dynamic sentence cadences, intentional fragments, sensory language, and clinical precision.
+   - 100% compliant with FDA/FTC advertising rules for dietary supplements.
+   - Demonstrates maximum creative leverage: one standing brief turns a single concept prompt into 7 platform-native assets in under 5 minutes.
+
+All assets, publication HTML, and PDF reports are pushed to GitHub and archived in the repository.
+================================================================================

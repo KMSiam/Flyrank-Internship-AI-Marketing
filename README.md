@@ -63,6 +63,16 @@ This repository contains the strategic research, channel acquisition blueprints,
   - [**submission_notes_thread_scout.txt**](./submission_notes_thread_scout.txt): Copy-paste portal submission notes link kit.
   - [**Thread Scout Google Form Target**](https://docs.google.com/forms/d/e/1FAIpQLScuPogZcRxJq3Vn5MODqDuw-Yfx_zWzvRKhWNta473EgZehdg/viewform): Verified destination where submissions land.
 
+### Week 8: Use Claude to build weeks of content (Foundations · 3h)
+- **Client Brand:** **Cymbiotika** (`https://cymbiotika.com` · [FlyRank Case Study: 4.96x growth](https://flyrank.ai/results))
+- **System Architecture:** Persistent Claude Project with standing audience briefs, sensory voice cards, anti-AI word filters, and strict **DSHEA/FDA regulatory health claim guardrails**.
+- **Anchor Seed Concept:** *The Liposomal Bioavailability Advantage: Why 80% of Vitamin C Pills are Flushed Unabsorbed*.
+- **The Content Pack Produced:** 7-day multi-channel campaign (3 TikTok/Reels video scripts, 6-tweet X thread, LinkedIn DTC thought post, 8-slide Instagram carousel, and Sunday longevity newsletter).
+- **Key Deliverables:**
+  - [**`CLAUDE_PROJECT_CONTENT_SYSTEM_CYMBIOTIKA.md`**](./CLAUDE_PROJECT_CONTENT_SYSTEM_CYMBIOTIKA.md): Full Claude Project master brief, standing instructions, and 7-day content pack.
+  - [**`FlyRank_Claude_Project_Content_System.pdf`**](./FlyRank_Claude_Project_Content_System.pdf): Publication PDF dossier deliverable.
+  - [**`submission_notes_week8_content.txt`**](./submission_notes_week8_content.txt): Copy-paste portal submission notes link kit.
+
 ### Week 7: Crack Social Media Algorithm (Build · 3h)
 - **Platform Selected:** **LinkedIn** (B2B Organic Distribution Engine)
 - **Brand Selected:** **FlyRank** (`https://flyrank.ai` · Autonomous AI SEO & AEO Engine)
